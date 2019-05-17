@@ -3,7 +3,6 @@
     class="house-img-swipe-container"
     :class="{'house-swipe1': swipeList.length === 1, 'house-swipe2': swipeList.length === 2}"
     @click="handleClick"
-    @change="handleChange"
     @touchstart="onTouchStart"
     @touchmove="onTouchMove"
     @touchend="onTouchEnd"
