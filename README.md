@@ -5,7 +5,7 @@
 ## 效果图
 
 ``` bash
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/bingitbin/house-img-swipe/master/public/demo.jpeg)
 ```
 
 ## 安装
