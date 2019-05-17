@@ -4,9 +4,7 @@
 
 ## 效果图
 
-``` bash
-![screenshot](https://raw.githubusercontent.com/bingitbin/house-img-swipe/master/public/demo.jpeg)
-```
+![效果图](https://raw.githubusercontent.com/bingitbin/house-img-swipe/master/public/demo.jpeg)
 
 ## 安装
 
