@@ -4,7 +4,7 @@
 
 ## 效果图
 
-![效果图](链接: https://pan.baidu.com/s/1DJORx9c0u57K-Y6UmrMhwg)
+![效果图](链接: https://static-public-uat.liveyu.com/webapp/hybrid/mob-umihome-client/img-3d-swipe.jpeg)
 
 ## 安装
 
