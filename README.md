@@ -1,15 +1,15 @@
-# house-img-swipe
+# img-3d-swipe
 
 > 基于Vue的图片3d轮播
 
 ## 效果图
 
-![效果图](https://raw.githubusercontent.com/bingitbin/house-img-swipe/master/public/demo.jpeg)
+![效果图](链接: https://pan.baidu.com/s/1DJORx9c0u57K-Y6UmrMhwg)
 
 ## 安装
 
 ``` bash
-$ npm install house-img-swipe -S
+$ npm install img-3d-swipe -S
 ```
 ## 使用
 
@@ -17,17 +17,17 @@ $ npm install house-img-swipe -S
 
 ``` bash
 # main.js
-import 'house-img-swipe/imgswipe.css'
-import HouseImgSwipe from 'house-img-swipe'
-Vue.use(HouseImgSwipe)
+import 'img-3d-swipe/imgswipe.css'
+import Img3DSwipe from 'img-3d-swipe'
+Vue.use(Img3DSwipe)
 ```
 
-在项目中使用 HouseImgSwipe
+在项目中使用 Img3DSwipe
 
 ```vue
 <template>
   <div>
-    <house-img-swipe :data="data" @click="handleClick" @change="handleChange"/>
+    <img-3d-swipe :data="data" @click="handleClick" @change="handleChange"/>
   </div>
 </template>
 
