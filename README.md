@@ -4,7 +4,7 @@
 
 ## 效果图
 
-![alt 效果图](https://static-public-uat.liveyu.com/webapp/hybrid/mob-umihome-client/img-3d-swipe.jpeg)
+![效果图](链接：https://static-public-uat.liveyu.com/webapp/hybrid/mob-umihome-client/img-3d-swipe.jpeg)
 
 ## 安装
 
